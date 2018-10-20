@@ -1,6 +1,6 @@
 import java.io.*; 
 import java.util.Scanner; 
-class Uniquearray 
+class UniqueArray 
 { 
 	static int minSum(int arrayVal[], int n) 
 	{ 
