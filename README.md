@@ -15,6 +15,12 @@ Open a command prompt to that specific folder location to which you have extract
 
  cd \Files_location\
  
+ To check whether JAVA is installed in your computer, execute below command 
+ 
+  java -version
+  
+ If java not available, download and install from https://www.java.com/en/download/
+ 
  To Compile the files
 
       javac *.java
